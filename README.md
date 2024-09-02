@@ -3,9 +3,13 @@ Here are some interactive visualisations to accompany my Durham University Maste
 
 Please consult the report for context and interpretation of each visual. 
 
+### Initial Observations
++ Interactive hierarchical treemap of author representation: https://loisrebekah.github.io/unwiring-cyberspace/author_representation.html
 
-+ Interactive Hierarchical Treemap of Author Representation: https://loisrebekah.github.io/unwiring-cyberspace/author_representation.html
-
+### BERTopic
++ Intertopic distance map:
+  
++ Topic hierarchy:
 
 + 
 
