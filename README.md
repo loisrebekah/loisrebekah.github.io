@@ -7,9 +7,9 @@ Please consult the report for context and interpretation of each visual.
 + Interactive hierarchical treemap of author representation: https://loisrebekah.github.io/unwiring-cyberspace/author_representation.html
 
 ### BERTopic
-+ Intertopic distance map:
++ Intertopic distance map: https://loisrebekah.github.io/unwiring-cyberspace/intertopic_dist_for_github.html
   
-+ Topic hierarchy:
++ Topic hierarchy: https://loisrebekah.github.io/unwiring-cyberspace/hierarchical_topics_for_github.html
 
 + 
 
