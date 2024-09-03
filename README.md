@@ -7,8 +7,8 @@ Please consult the report for the context and my interpretation of each visual. 
 + Author representation hierarchical treemap: https://loisrebekah.github.io/unwiring-cyberspace/author_representation.html
 
 ### BERTopic
-+ Optimised model summary table: https://loisrebekah.github.io/unwiring-cyberspace/BERTopic_summary_for_github.html
-
++ Summary table for optimised model: https://loisrebekah.github.io/unwiring-cyberspace/BERTopic_summary_for_github.html
+  
 + 2D intertopic distance map: https://loisrebekah.github.io/unwiring-cyberspace/intertopic_dist_for_github.html
 
 + Heatmap derived from c-TF-IDF cosine similarity distance matrix (used to generate the dendrogram linked below): https://loisrebekah.github.io/unwiring-cyberspace/ctfidf_heatmap_for_github.html
