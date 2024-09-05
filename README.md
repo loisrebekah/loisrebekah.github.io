@@ -15,6 +15,6 @@ Please consult the report for the context and my interpretation of each visual. 
 
 + Dendrogram illustrating topic hierarchy: https://loisrebekah.github.io/unwiring-cyberspace/hierarchical_topics_for_github.html
 
-+ Interactive time-series plot tracking politically salient topics over time: https://github.com/loisrebekah/unwiring-cyberspace/blob/main/politically_salient_topics_over_time_for_github.html
++ Interactive time-series plot tracking politically salient topics over time: [https://github.com/loisrebekah/unwiring-cyberspace/blob/main](https://loisrebekah.github.io/unwiring-cyberspace/politically_salient_topics_over_time_for_github.html
 
 
